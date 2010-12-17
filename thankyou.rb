@@ -12,5 +12,5 @@ print "What did you get? "
 gift = gets.chomp
 
 tyn = ThankYouNote.new(recipient, gift, sender_name)
-tyn.B.M.E
+tyn.B.M.E.f
 
